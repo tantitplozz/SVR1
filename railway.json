@@ -1,7 +1,7 @@
 {
   "build": {
     "env": {
-      "OLLAMA_MODELS": "hf.co/mradermacher/Dolphin-Mistral-24B-Venice-Edition-i1-GGUF:Q4_K_M"
+      "OLLAMA_MODELS": "hf.co/tensorblock/laser-dolphin-mixtral-4x7b-dpo-GGUF:Q4_K_M"
     }
   }
 }
